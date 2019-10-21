@@ -1,0 +1,30 @@
+enable: true
+title: Our Services
+subtitle: >
+  What do we offer?
+content:
+
+  - icon: ion-edit
+    name: Planning
+    text: >
+      Building Drawing as per user requirements.
+
+  - icon: ion-android-hand
+    name: Joint Ventures
+    text: >
+      Reach out to us through mail or contact numbers for Joint Ventures programs.
+
+  - icon: ion-hammer
+    name: Constructions
+    text: >
+      Engage with us for new construction works.
+
+  - icon: ion-ios-paper
+    name: Contracting
+    text: >
+      Engage with us for new contract based construction works.
+
+  - icon: ion-ios-home
+    name: Builder
+    text: >
+      Buy Newly constucted Houses.
