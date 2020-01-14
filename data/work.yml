@@ -5,6 +5,16 @@ subtitle: Don’t just take our word for it. Check out some of our latest work.
 # google support the latest technology for image optimization. you can also optimize your image from https://www.ps2pdf.com/convert-jpg-to-webp here.
 portfolio:
   - category: Aadhana
+    image: "img/projects/aadhana/home-1.jpeg"
+    name: Home 1
+    # description: >
+      
+  - category: Aadhana
+    image: "img/projects/aadhana/home-2.jpeg"
+    name: Home 2
+    # description: >
+
+  - category: Aadhana
     image: "img/projects/aadhana/brochure-1.jpg"
     name: Brouchure 1
     # description: >
