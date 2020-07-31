@@ -13,28 +13,22 @@ portfolio:
     image: "img/projects/aadhana/home-2.jpeg"
     name: Home 2
     # description: >
-
-  - category: Aadhana
-    image: "img/projects/aadhana/brochure-1.jpg"
-    name: Brouchure 1
-    # description: >
       
   - category: Aadhana
-    image: "img/projects/aadhana/brochure-2.jpg"
-    name: Brouchure 2
-    # description: >
-      
-  - category: Aadhana
-    image: "img/projects/aadhana/ground-floor-plan.jpg"
+    image: "img/projects/aadhana/floor-plan-0.jpg"
     name: Plan - Floor 0
     # description: >
-      
+            
   - category: Aadhana
-    image: "img/projects/aadhana/first-floor-plan.jpg"
+    image: "img/projects/aadhana/floor-plan-1.jpg"
     name: Plan - Floor 1
     # description: >
-      
-  
+
+  - category: Aadhana
+    image: "img/projects/aadhana/floor-plan-0.jpg"
+    name: Plan - Floor 2
+    # description: >
+
   # Progress
   - category: Progress
     image: "img/progress/filed-soil-test.jpg"
